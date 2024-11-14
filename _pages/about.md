@@ -37,8 +37,8 @@ With over 30 SCI-indexed papers published in significant domestic and internatio
 
 # 📝 Publications 
 2024
-- Qiu, Lianpeng, Cuipeng Qiu, and Chengyun Song. "ESDTW: Extrema-based shape dynamic time warping." Expert Systems with Applications 239 (2024): 122432. （SCI，JCR一区）[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)
-- Jinhong He, Minglong Xue, Aoxiang Ning, Chengyun Song."Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. "Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C)[paper](https://arxiv.org/abs/2403.02879)
+- Qiu, Lianpeng, Cuipeng Qiu, and Chengyun Song. "ESDTW: Extrema-based shape dynamic time warping." Expert Systems with Applications 239 (2024): 122432. （SCI，JCR一区）[【paper】](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)
+- Jinhong He, Minglong Xue, Aoxiang Ning, Chengyun Song."Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. "Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C)[【paper】](https://arxiv.org/abs/2403.02879)
 - Song, Chengyun, et al. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. （SCI，JCR三区）
 
 2023
