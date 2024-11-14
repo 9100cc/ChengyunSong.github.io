@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Associate professor in the College of Computer Science at Chongqing University of Technology, and a master's supervisor. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Associate professor in the College of Computer Science at Chongqing University of Technology, and a master's supervisor.Received the doctoral degree from the University of Electronic Science and Technology of China in December 2017; joined the School of Computer Science of Chongqing University of Technology as a lecturer in January 2018; was awarded the title of associate professor of Computer Science and Technology in December 2021; entered the postdoctoral workstation of Changan Automobile Co., Ltd. in January 2022 and engaged in the research of license plate recognition algorithms in the garage environment. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+# 💻 Research Interests
+- Intelligent Signal Analysis
+- Cluster Analysis
+- Image Denoising
+- Computer Vision
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -40,7 +43,10 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+2024
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-  Qiu, Lianpeng, Cuipeng Qiu, and Chengyun Song. "ESDTW: Extrema-based shape dynamic time warping." Expert Systems with Applications 239 (2024): 122432. （SCI，JCR一区）[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)
+-  Song, Chengyun, et al. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. （SCI，JCR三区）[paper]()
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
