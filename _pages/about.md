@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Associate professor in the College of Computer Science at Chongqing University of Technology, and a master's supervisor.Received the doctoral degree from the University of Electronic Science and Technology of China in December 2017; joined the School of Computer Science of Chongqing University of Technology as a lecturer in January 2018; was awarded the title of associate professor of Computer Science and Technology in December 2021; entered the postdoctoral workstation of Changan Automobile Co., Ltd. in January 2022 and engaged in the research of license plate recognition algorithms in the garage environment. 
+
 With over 30 SCI-indexed papers published in significant domestic and international academic journals, I have also led one National Natural Science Foundation of China (NSFC) project and one Chongqing Municipal Education Commission Scientific Research Project. Additionally, I have participated in two Chongqing Municipal Science and Technology Commission projects. Currently, I serve as a reviewer for the NSFC and several domestic and international journals. My research group maintains excellent cooperative relationships with institutions such as the University of Electronic Science and Technology of China and JD Urban Computing Research Institute, providing good career development and further education opportunities for graduate students pursuing doctoral studies or employment.
 
 # 💻 Research Interests
@@ -31,7 +32,8 @@ With over 30 SCI-indexed papers published in significant domestic and internatio
 
 # 🗞️ Manuscripts
 2024
-- Aoxiang Ning, Minglong Xue, Jinhong He and Chengyun Song. "KAN See In the Dark." arXiv preprint arXiv:2409.03404, 2024.[paper](https://arxiv.org/pdf/2409.03404)[code](https://github.com/AXNing/KSID)
+- Aoxiang Ning, Minglong Xue, Jinhong He and Chengyun Song. "KAN See In the Dark." arXiv preprint arXiv:2409.03404, 2024.[【paper】](https://arxiv.org/pdf/2409.03404) 
+ [【code】](https://github.com/AXNing/KSID)
 
 # 📝 Publications 
 2024
