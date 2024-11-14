@@ -44,9 +44,25 @@ Associate professor in the College of Computer Science at Chongqing University o
 </div>
 
 2024
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--  Qiu, Lianpeng, Cuipeng Qiu, and Chengyun Song. "ESDTW: Extrema-based shape dynamic time warping." Expert Systems with Applications 239 (2024): 122432. （SCI，JCR一区）[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)
--  Song, Chengyun, et al. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. （SCI，JCR三区）[paper]()
+- Qiu, Lianpeng, Cuipeng Qiu, and Chengyun Song. "ESDTW: Extrema-based shape dynamic time warping." Expert Systems with Applications 239 (2024): 122432. （SCI，JCR一区）[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)
+- Song, Chengyun, et al. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. （SCI，JCR三区）
+
+2023
+- QIU, Lianpeng, and Chengyun SONG. "Noise robust dynamic time warping algorithm." Journal of Computer Applications 43.6 (2023): 1855. （中文核心）
+- Li, Lin, Xiang Chen, and Chengyun Song. "A self-adaptive graph-based clustering method with noise identification." Pattern Analysis and Applications 26.3 (2023): 907-916. （SCI，JCR四区，CCF推荐期刊）
+- Zhang, Kai, Chengyun Song, and Lianpeng Qiu. "Self-paced deep clustering with learning loss." Pattern Recognition Letters 171 (2023): 8-14. （SCI，JCR三区，CCF推荐期刊）
+- Li, Lin, Xiang Chen, and Chengyun Song. "NonPC: Non-parametric clustering algorithm with adaptive noise detecting." Intelligent Data Analysis 27.5 (2023): 1347-1358. （SCI，JCR四区，CCF推荐期刊）
+- Xiong, Chuanchao, et al. "Self-supervised deep learning for multi-profile seismic data denoising." International Conference on Computer, Artificial Intelligence, and Control Engineering (CAICE 2023). Vol. 12645. SPIE, 2023. （国际会议）
+
+2022
+- Song, Chengyun, et al. "Dynamic subwindow matching: A new similarity measure for seismic facies analysis." Geophysical Prospecting 70.7 (2022): 1129-1142. （SCI，JCR三区）
+- Li, Lin, Xiang Chen, and Chengyun Song. "A robust clustering method with noise identification based on directed K-nearest neighbor graph." Neurocomputing 508 (2022): 19-35. （SCI，JCR二区，CCF推荐期刊）
+- Zhang, Yin, Chengyun Song, and Minglong Xue. "Psnd: A robust parking space number detector." 2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022. （CCF推荐国际会议）
+
+before 2022
+- Song, Chengyun, et al. "Robust K-means algorithm with weighted window for seismic facies analysis." Journal of Geophysics and Engineering 18.5 (2021): 618-626. （SCI，JCR三区）
+- Song, Chengyun, et al. "Application of Dynamic Time Warping in Weighted Stacking of Seismic Data." IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5. （SCI，JCR二区）
+- 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
